@@ -8,7 +8,7 @@ Este é um projeto de uma calculadora simples que pode ser acessada abrindo o ar
 <li>Multiplicação: Permite multiplicar dois números.</li>
 <li>Divisão: Permite dividir um número por outro.</li>
 </ol>
-<h3></h3>Como Usar</h3>
+<h3>Como Usar</h3>
 <li>Faça o download dos arquivos do projeto em um diretório local.</li>
 <li>Navegue até o diretório onde os arquivos estão localizados.</li>
 <li>Abra o arquivo index.html em um navegador da web compatível.</li>
